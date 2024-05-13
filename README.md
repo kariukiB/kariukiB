@@ -1,32 +1,32 @@
-<h1 align="center">Hi 👋, I'm Syll</h1>
-<h3 align="center">A passionate backend developer from KENYA</h3>
+<h1 align="center">Hi 👋, I'm Kariuki</h1>
+<h3 align="center">A self taught backend developer from KENYA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sylvianafula&label=Profile%20views&color=0e75b6&style=flat" alt="sylvianafula" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sylvianafula&show_icons=true&locale=en&layout=compact" alt="sylvianafula" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kariukiB&label=Profile%20views&color=0e75b6&style=flat" alt="kariukiB" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kariukiB&show_icons=true&locale=en&layout=compact" alt="kariukiB" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylvianafula&show_icons=true&locale=en" alt="sylvianafula" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kariukiB&show_icons=true&locale=en" alt="kariukiB" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvianafula&" alt="sylvianafula" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kariukiB&" alt="kariukiB" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylvianafula" alt="sylvianafula" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariukiB" alt="kariukiB" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MSME Project**
+- 🔭 I’m currently working on **MSME Automtions**
 
-- 🌱 I’m currently learning **Java (Springboot)**
+- 🌱 I’m currently learning **Azure (DevOps)**
 
-- 👯 I’m looking to collaborate on **E-commerce system**
+- 👯 I’m looking to collaborate on **E-commerce systems**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **.NET 8**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sylvianafula](https://github.com/Sylvianafula)
+- 👨‍💻 All of my projects are available at [https://github.com/kariukiB](https://github.com/kariukiB)
 
 - 📝 I regularly write articles on [https://instagram.com](https://instagram.com)
 
-- 💬 Ask me about **php,mysql,apache**
+- 💬 Ask me about **java, mysql, spring framework**
 
-- 📫 How to reach me **sylvianafula632@gmail.com**
+- 📫 How to reach me **bonfacekarau@gmail.com**
 
 - 📄 Know about my experiences [klhjgyg](klhjgyg)
 
