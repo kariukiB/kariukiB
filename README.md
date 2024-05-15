@@ -22,13 +22,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kariukiB](https://github.com/kariukiB)
 
-- 📝 I regularly write articles on [https://instagram.com](https://instagram.com)
-
 - 💬 Ask me about **java, mysql, spring framework**
 
 - 📫 How to reach me **bonfacekarau@gmail.com**
-
-- 📄 Know about my experiences [klhjgyg](klhjgyg)
 
 - ⚡ Fun fact **Bananas are berries, but strawberries aren't.**
 
