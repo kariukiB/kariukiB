@@ -14,19 +14,17 @@
 
 - 🔭 I’m currently working on **MSME Automtions**
 
-- 🌱 I’m currently learning **Azure (DevOps)**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👯 I’m looking to collaborate on **E-commerce systems**
 
-- 🤝 I’m looking for help with **.NET 8**
+- 🤝 I’m looking for help with **Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kariukiB](https://github.com/kariukiB)
 
 - 💬 Ask me about **java, mysql, spring framework**
 
 - 📫 How to reach me **bonfacekarau@gmail.com**
-
-- ⚡ Fun fact **Bananas are berries, but strawberries aren't.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,6 +60,31 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <!-- Kafka -->
+  <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
+  </a>
+
+  <!-- Zipkin -->
+  <a href="https://zipkin.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_zipkin/apache_zipkin-icon.svg" alt="Zipkin" width="40" height="40"/>
+  </a>
+
 
 </p>
 
