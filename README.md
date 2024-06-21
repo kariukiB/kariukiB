@@ -82,7 +82,7 @@
 
   <!-- Zipkin -->
   <a href="https://zipkin.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_zipkin/apache_zipkin-icon.svg" alt="Zipkin" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/zipkinio/zipkin-icon.svg" alt="Zipkin" width="40" height="40"/>
   </a>
 
 
