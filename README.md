@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kariuki</h1>
-<h3 align="center">A passionate backend developer from Kenya</h3>
+<h3 align="center">And I code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kariukiB&label=Profile%20views&color=0e75b6&style=flat" alt="kariukiB" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kariukiB&show_icons=true&locale=en&layout=compact" alt="kariukiB" /></p>
@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MSME Automations**
+- 🔭 I’m currently working on **Real Estate Management Solutions**
 
 - 🌱 I’m currently learning **Cyber Security**
 
@@ -22,17 +22,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kariukiB](https://github.com/kariukiB)
 
-- 💬 Ask me about **java, mysql, spring framework**
+- 💬 Ask me about **java, mysql, spring framework, Docker**
 
 - 📫 How to reach me **bonfacekarau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/qs-bonface-karau/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/bonface-karau" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
